@@ -17,7 +17,7 @@ export default function App() {
             headerStyle: {
               backgroundColor: '#000000',
             },
-            headerTintColor: 'blue',
+            headerTintColor: 'white',
           }}
         />
         <Stack.Screen
